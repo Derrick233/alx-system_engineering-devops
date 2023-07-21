@@ -1,1 +1,1 @@
-My shell redirection
+Welcome to the ALX Engineering DevOps repository! This repository contains projects and exercises focused on DevOps practices, aiming to enhance your understanding of the software development lifecycle and how to ensure smooth collaboration between development and operations teams.
